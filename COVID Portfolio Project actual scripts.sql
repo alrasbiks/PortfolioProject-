@@ -1,4 +1,4 @@
-/****** Script for Portfolio Project by Khalid Al Rasbi ******/
+/****** Script for COIVID19 global data Project by Khalid Al Rasbi ******/
 
 -- select table covid death
 select *
